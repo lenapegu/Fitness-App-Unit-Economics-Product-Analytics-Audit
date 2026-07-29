@@ -1,5 +1,8 @@
 # Fitness App Analytics: Unit Economics & Product Funnel Audit
 
+View Tableau Dashboard:https://public.tableau.com/views/Fitnessapp_17793454772490/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+
 ## Overview
 
 A global fitness app was spending more on user acquisition than it was earning back. I was brought in to clean the data, calculate the unit economics and identify where the model was breaking down.
